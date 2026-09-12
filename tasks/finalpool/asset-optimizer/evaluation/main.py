@@ -1,4 +1,4 @@
-# Evaluation script for deployment-tool
+# Evaluation script for asset-optimizer
 
 def run_evaluation():
     # TODO: Implement actual evaluation logic
